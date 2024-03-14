@@ -22,7 +22,7 @@
 // Bluetooth Serial Object (Handle)
 BluetoothSerial SerialBT;
 
-Servo myservoPouce;
+Servo myservoPouce; //
 Servo myservoINDEX;
 Servo myservoMajeur;
 Servo myservoAnnulaire;
